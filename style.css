@@ -1,3 +1,7 @@
+@import url("header.css");
+@import url("banner.css");
+@import url("carrossel.css");
+
 :root{
     --cor-de-fundo:#EBECEE;
     --branco: #FFFFFF;
@@ -14,4 +18,7 @@
 
   } 
 
+  h1{
+    background-color: white;
+  }
   
